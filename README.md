@@ -10,3 +10,4 @@ variables` that will improve the science cases we are interested in. In supernov
 3. Use https://github.com/rhiannonlynne/OpsimObs to add observations
 4. fit the light curves using snosmo.mcmc_lc , fixing z
 5. Vary the number of observations by using opsimObs, randomly change the filters and time locations
+6. Build a correlation from position to size of distance errors for which we have a formula
